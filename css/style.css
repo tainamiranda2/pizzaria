@@ -1,0 +1,40 @@
+.body{
+    background-color: #f1ffbf;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000;
+}
+nav{
+    padding: 16px;
+}
+
+footer{
+    background-color: black;
+    color: #fff;
+    padding: 16px;
+    text-align: center;
+}
+.tabela{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    }
+
+    .produto{
+        background-color: white;
+        text-align: center;
+    }
+span{
+font-size: 30px;
+}
